@@ -4,5 +4,3 @@ Google Colab Link to NarrativeQA dataset pre - trained model - [https://colab.re
 Google Colab Link to CogniRead generalised solution - https://colab.research.google.com/drive/1wWGRbXg-BC9Xb9Xk-xAM8Pb1J0pE_9p0?usp=sharing
 
 Google Colab Link to Squad dataset model training - https://colab.research.google.com/drive/1dRBtD4lTK44rRaFe6oOrtPPGSwuz6opT?usp=sharing
-
-mail at - shreyajaisal90@gmail.com
